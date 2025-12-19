@@ -27,3 +27,9 @@ It has been optimized for real-time CPU performance using OpenCV and Dlib.
 
 ## 👨‍💻 Maintainer
 **Aarav (dramer-B)** - *Optimization & Modernization*
+
+## 🔗 Acknowledgements
+* **Original Author:** Soumitra Agarwal
+* **Organization:** [The Distributed Red Hen Lab](https://github.com/RedHenLab)
+* **Original Repository:** [SoumitraAgarwal/Blended-Joint-Attention](https://github.com/SoumitraAgarwal/Blended-Joint-Attention)
+
